@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTimerExample", "PeriodicTimerExample\PeriodicTimerExample.csproj", "{A3C01DAC-A591-4FF3-B76D-8B73AC434942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTimerExample.App", "PeriodicTimerExample.App\PeriodicTimerExample.App.csproj", "{6782E027-3A8D-408E-A489-0A24AB24B77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C01DAC-A591-4FF3-B76D-8B73AC434942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C01DAC-A591-4FF3-B76D-8B73AC434942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C01DAC-A591-4FF3-B76D-8B73AC434942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C01DAC-A591-4FF3-B76D-8B73AC434942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6782E027-3A8D-408E-A489-0A24AB24B77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6782E027-3A8D-408E-A489-0A24AB24B77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6782E027-3A8D-408E-A489-0A24AB24B77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6782E027-3A8D-408E-A489-0A24AB24B77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B98A7C-1B5F-4ED4-B5FC-BBAE1D9ED705}
+	EndGlobalSection
+EndGlobal
